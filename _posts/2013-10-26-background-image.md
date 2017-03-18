@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Post with a Background Image
+title: Virtual reality Egypt History 5 chambers Gallery
+
+
 description: "Sample post with a background image CSS override."
 tags: [sample post]
 image:
-  background: triangular.png
+  background: gg.jpg
 ---
 
-Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
+Designed a virtual reality app its main idea is a 5 chambers gallery every chamber specialized at an Egyptian era ( Pharaonic, Greek, Christian, Islamic, revolution ) every era is archived with photos which is main idea of app is watching it the app built by Unity and C# scripts and Google VR SDK .
 
 ```yaml
 image:
