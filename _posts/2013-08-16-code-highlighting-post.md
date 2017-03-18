@@ -22,10 +22,6 @@ Visuals : it likes Historical and Funny at same time :) .
 final piece
 the final piece of the game started with a big UI text and button with text “start” the to start game you should click it , then you are in :D , the mystery starts with an historical place like in below pics where you will move in and the balls started to lighting then you have to click them at same order the had lighted to check your memory , then you may play again by clicking at restart button in the ending UI .
         
-3. Now you can do this.
 
-### GitHub Gist Embed
-
-An example of a Gist embed below.
 
 {% gist mmistakes/6589546 %}
