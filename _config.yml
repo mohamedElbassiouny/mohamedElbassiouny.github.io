@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Ali Taha
+description:      Building VR experiences via Unity.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -16,7 +16,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:   https://github.com/AliiTaha      
   stackexchange:  
   linkedin:       
   instagram:      
