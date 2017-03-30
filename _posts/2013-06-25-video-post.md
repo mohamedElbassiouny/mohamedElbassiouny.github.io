@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puzzler  Video"
+title: "Puzzler game in VR"
 description: "puzzler  game"
 tags: [projects]
 image:
