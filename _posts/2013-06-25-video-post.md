@@ -22,7 +22,5 @@ clone it
 import the Google SDK 1.03
 setup the android platform for building
 
-<iframe width="560" height="315" src="https://youtu.be/0tm2VWjLPJw" frameborder="0"></iframe>
-
 
 Project in Github https://github.com/mohamedElbassiouny/puzzler-virtual-reality
