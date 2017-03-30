@@ -25,7 +25,3 @@ setup the android platform for building
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=0tm2VWjLPJw" frameborder="0"></iframe>
 
 
-
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0tm2VWjLPJw" frameborder="0"></iframe>
-```
